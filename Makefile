@@ -4,7 +4,7 @@ endif
 
 LANGUAGE_NAME := tree-sitter-vue
 HOMEPAGE_URL := https://github.com/tree-sitter-grammars/tree-sitter-vue
-VERSION := 0.1.0
+VERSION := 0.21.0
 
 # repository
 SRC_DIR := src

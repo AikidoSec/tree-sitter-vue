@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.13)
 
 project(tree-sitter-vue
-        VERSION "0.1.0"
+        VERSION "0.21.0"
         DESCRIPTION "Vue.js grammar for tree-sitter"
         HOMEPAGE_URL "https://github.com/tree-sitter-grammars/tree-sitter-vue"
         LANGUAGES C)

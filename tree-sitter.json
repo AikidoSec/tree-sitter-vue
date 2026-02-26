@@ -14,7 +14,7 @@
     }
   ],
   "metadata": {
-    "version": "0.1.0",
+    "version": "0.21.0",
     "license": "MIT",
     "description": "Vue.js grammar for tree-sitter",
     "authors": [

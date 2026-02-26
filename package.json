@@ -1,6 +1,6 @@
 {
   "name": "@tree-sitter-grammars/tree-sitter-vue",
-  "version": "0.1.0",
+  "version": "0.21.0",
   "description": "Vue.js grammar for tree-sitter",
   "repository": "https://github.com/tree-sitter-grammars/tree-sitter-vue",
   "license": "MIT",
@@ -41,18 +41,15 @@
     "eslint": "^9.29.0",
     "eslint-config-treesitter": "^1.0.2",
     "prebuildify": "^6.0.1",
-    "tree-sitter-cli": "^0.25.6"
+    "tree-sitter-cli": "^0.21.0"
   },
   "peerDependencies": {
-    "tree-sitter": "^0.22.4"
+    "tree-sitter": "^0.21.0"
   },
   "peerDependenciesMeta": {
     "tree-sitter": {
       "optional": true
     }
-  },
-  "overrides": {
-    "tree-sitter": "^0.22.4"
   },
   "scripts": {
     "install": "node-gyp-build",
